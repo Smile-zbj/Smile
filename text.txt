@@ -1,0 +1,6 @@
+.
+├── lece
+├── readme.txt
+└── text.txt
+
+0 directories, 3 files
